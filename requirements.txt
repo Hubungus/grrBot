@@ -1,8 +1,4 @@
-discord
-PIL
-io
+discord.py
+Pillow
+python-dotenv
 imageio
-json
-logging
-dotenv
-os
