@@ -1,6 +1,8 @@
-fastapi
-uvicorn
-python-dotenv
-discord-interactions
+discord
+PIL
+io
 imageio
-Pillow
+json
+logging
+dotenv
+os
