@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-dotenv
+discord-interactions
+imageio
+Pillow
